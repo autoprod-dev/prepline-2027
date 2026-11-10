@@ -1,0 +1,2 @@
+/*! Copyright (c) 2026 Autoprod. All rights reserved. No permission is granted to copy, modify, distribute or reuse this software or its code without written permission from Autoprod. Contact: autoprod.help@gmail.com */
+window.PREPLINE_GATE={enabled:!1,endpoint:"",timeoutMs:0,trial:{enforce:!1},openAccess:!0};

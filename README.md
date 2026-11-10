@@ -1,0 +1,1 @@
+Prepline 2027 by Autoprod: built site files only (new interface, universal importer, one-page checklist prints on the Prepline engine). Made-up sample files in samples/. Copyright (c) 2026 Autoprod. All rights reserved. Source is private. Contact: autoprod.help@gmail.com

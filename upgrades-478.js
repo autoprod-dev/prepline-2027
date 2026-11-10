@@ -1,0 +1,2 @@
+/*! Copyright (c) 2026 Autoprod. All rights reserved. No permission is granted to copy, modify, distribute or reuse this software or its code without written permission from Autoprod. Contact: autoprod.help@gmail.com */
+!function(){"use strict";("undefined"!=typeof window?window:globalThis).Prepline478={VERSION:"4.7.8",SORT:["dish/sourceTab A-Z","prepDay chrono","eventDate chrono","item A-Z"]}}();
