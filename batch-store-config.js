@@ -1,0 +1,2 @@
+/*! Copyright (c) 2026 Autoprod. All rights reserved. No permission is granted to copy, modify, distribute or reuse this software or its code without written permission from Autoprod. Contact: autoprod.help@gmail.com */
+void 0===window.P27_BATCH_ENDPOINT&&(window.P27_BATCH_ENDPOINT="https://script.google.com/macros/s/AKfycbz49i2bz2hp29KWEtLje4a75xUoh1zVQhKxsPt3dkeRTqAvAQlvs0_ge2M5rRFOPpL2/exec");
